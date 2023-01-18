@@ -12,7 +12,7 @@ This dataset could be used on a variety of tasks, e.g., face detection, age esti
 
 
 # INPUT/OUTPUT
-![image](https://user-images.githubusercontent.com/73791285/213119993-4f6e9c49-286a-438c-b8bd-53963161209b.png)
+![image](https://user-images.githubusercontent.com/73791285/213120901-69a054a2-cc91-4298-8a1d-3164f4e34d72.png)
 ![image](https://user-images.githubusercontent.com/73791285/213120074-1656e369-746f-42bc-8cfb-6901c37704ca.png)
 
 
