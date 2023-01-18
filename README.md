@@ -1,8 +1,8 @@
 # Age_and_Gender_Prediction
-# Objective
+# OBJECTIVE
 The objective of the project is to detect gender and age using facial images. Convolutional Neural Network is used to classify the images. There are 2 output types namely, gender(M or F) and age.
 
-# Methodology
+# METHODOLOGY
 ![image](https://user-images.githubusercontent.com/73791285/213120685-c95bc83f-fed0-4374-9ee7-7253b2a440e2.png)
 
 
